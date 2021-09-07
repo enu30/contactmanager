@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "d4e36e20-49d7-45fb-b71c-660c04d1a37d",
+      "name": "Ena ",
+      "email": "choudharyena3025@gmail.com"
+    },
+    {
+      "id": "87b60c7e-43db-4bee-bea2-26878aae43cd",
+      "name": "anusha jain",
+      "email": "anusha@gmail.com"
+    },
+    {
+      "id": "5ca48a25-1ad6-4114-bf65-f573f870f955",
+      "name": "Ishant Jaipur",
+      "email": "ishu@gmail.com"
+    },
+    {
+      "id": "9acbe57b-b2aa-4c56-b1d2-7a793f7d0125",
+      "name": "astha rawat",
+      "email": "astha@gmail.com"
+    }
+  ]
+}
